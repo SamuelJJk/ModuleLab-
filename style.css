@@ -1,0 +1,28 @@
+
+.container{
+    border:solid blue;
+    padding:12px;
+    display: flex;
+    justify-content: space-between;
+    margin:1em;
+    border-radius:5px;
+}
+.dashboard{
+    border:solid black;
+    padding:1em;
+}
+.spacer{
+    display:flex;
+    justify-content: space-between;
+}
+.sprintContainer{
+    border:solid black;
+    padding:1em;
+}
+.imgContainer{
+    border: 1px solid black;
+    width: 100%;
+    /* display: flex;
+    justify-content: space-evenly; */
+    /* height: 30vh; */
+}
